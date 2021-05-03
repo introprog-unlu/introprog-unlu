@@ -12,5 +12,4 @@
 <h1 align="center">Hola 👋, Estamos en Introducción a la Programación</h1>
 <h3 align="center">Licenciatura en Sistemas de Información . Departamento de Ciencias Básicas.</h3>
 
-- 👨‍💻 github [https://github.com/agrup](https://github.com/agrup)
 
