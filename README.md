@@ -12,4 +12,4 @@
 <h1 align="center">Hola 👋, Estamos en Introducción a la Programación</h1>
 <h3 align="center">Licenciatura en Sistemas de Información . Departamento de Ciencias Básicas.</h3>
 
-[:two::zero::two::one:](https://github.com/introprog-unlu/2021)
+:round_pushpin: [:two::zero::two::one:](https://github.com/introprog-unlu/2021)
